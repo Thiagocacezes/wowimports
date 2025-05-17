@@ -110,7 +110,7 @@
     }
 
     header {
-        background: #111;
+        background: hwb(212 7% 59%);
     }
 
     .text-1 {
@@ -156,7 +156,7 @@
     }
 
     header {
-        background: #111;
+        background: hwb(212 7% 59%);
     }
 
     .text-1 {

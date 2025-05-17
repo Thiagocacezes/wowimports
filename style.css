@@ -86,7 +86,7 @@ html {
 }
 
 .navbar .menu li a:hover {
-    color: #00804b;
+    color: #111;
 }
 
 .navbar.sticky .menu li a:hover {
@@ -130,7 +130,7 @@ html {
 }
 
 .home .home-content .text-3 span {
-    color: #00804b;
+    color: #fff;
     font-weight: 500;
 }
 
