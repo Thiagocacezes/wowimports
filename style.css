@@ -97,10 +97,10 @@ html {
 
 .home {
     display: flex;
-    background: #111;
+    background: hwb(212 7% 59%);
     background-size: cover;
     height: 100vh;
-    color: #fff;
+    color: #0a0909;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -202,7 +202,7 @@ section .title {
 }
 
 section .title::before {
-    content: "TCDigital";
+    content: "wowimports";
     position: absolute;
     bottom: 0;
     left: 50%;
