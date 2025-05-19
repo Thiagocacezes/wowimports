@@ -47,7 +47,7 @@ html {
 }
 
 .navbar.sticky {
-    background: #00804b;
+    background: hwb(212 7% 59%);
     padding: 15px 0;
 }
 
@@ -64,7 +64,7 @@ html {
 }
 
 .navbar .logo a span {
-    color: #00804b;
+    color: hwb(212 7% 59%);
     transition: all 0.3s ease;
 }
 
@@ -137,7 +137,7 @@ html {
 .home .home-content a {
     display: inline-block;
     background: transparent;
-    color: #00804b;
+    color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
@@ -146,7 +146,7 @@ html {
 }
 
 .home .home-content a:hover {
-    color: #00804b;
+    color: hwb(0 0% 100%);
     background: transparent;
 }
 
@@ -202,7 +202,7 @@ section .title {
 }
 
 section .title::before {
-    content: "wowimports";
+    content: "wow";
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -643,7 +643,7 @@ footer {
 }
 
 footer span a {
-    color: #00804b;
+    color: hwb(212 7% 59%);
     text-decoration: none;
 }
 
@@ -675,12 +675,12 @@ footer span a:hover {
 }
 
 .aviso-de-cookies__conteudo a {
-    color: #00804b;
+    color: hwb(212 7% 59%);
     text-decoration: none;
 }
 
 .aviso-de-cookies__botao {
-    background-color: #00804b;
+    background-color: hwb(212 7% 59%);
     padding: 8px 20px;
     border-radius: 5px;
     color: #fff;
@@ -691,5 +691,5 @@ footer span a:hover {
 }
 
 .aviso-de-cookies__botao:hover {
-    background-color: #00804b;
+    background-color: hwb(212 7% 59%);
 }
