@@ -244,7 +244,7 @@
     #services .box div {
         font-size: 20px;
         text-decoration: underline;
-        color: #00804b;
+        color: hwb(212 7% 59%);
     }
 
     #imgul3 {
